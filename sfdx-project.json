@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "MaxFitProject",
+  "namespace": "",
+  "sfdcLoginUrl": "https://psf-dev-ed.develop.my.salesforce.com",
+  "sourceApiVersion": "58.0"
+}
